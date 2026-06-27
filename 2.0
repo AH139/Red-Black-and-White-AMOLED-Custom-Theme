@@ -58,7 +58,7 @@
       "#232428"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#b30000"
+      "#660000"
     ],
     "BACKGROUND_TERTIARY": [
       "#1a1b1e"
@@ -73,7 +73,7 @@
       "#232428"
     ],
     "BG_BASE_TERTIARY": [
-      "#b30000"
+      "#660000"
     ],
     "HOME_BACKGROUND": [
       "#232428"
@@ -115,7 +115,7 @@
       "#b30000"
     ],
     "INTERACTIVE_HOVER": [
-      "#660000"
+      "#4450d8"
     ],
     "INTERACTIVE_MUTED": [
       "#aaaaaa"
@@ -130,16 +130,16 @@
       "#b30000"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#b30000"
+      "#660000"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
       "#232428"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#b30000"
+      "#660000"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#b30000"
+      "#660000"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "#FFFFFF1A"
@@ -196,7 +196,7 @@
       "#FFFFFF12"
     ],
     "KEYBOARD": [
-      "#b30000"
+      "#660000"
     ],
     "BACKGROUND_MODIFIER_ACCEPT": [
       "#3ba55d33"
@@ -251,7 +251,7 @@
     "BRAND_460": "#b30000",
     "BRAND_500": "#b30000",
     "BRAND_530": "#b30000",
-    "BRAND_560": "#660000",
+    "BRAND_560": "#4450d8",
     "BRAND_600": "#b30000",
     "BRAND_630": "#b30000",
     "BRAND_660": "#b30000",
@@ -268,7 +268,7 @@
     "PLUM_15": "#b30000",
     "PLUM_16": "#232428",
     "PLUM_17": "#000000",
-    "PLUM_18": "#b30000",
+    "PLUM_18": "#660000",
     "PLUM_19": "#232428",
     "PLUM_20": "#000000",
     "PLUM_21": "#232428",
@@ -280,13 +280,13 @@
     "PRIMARY_300": "#b30000",
     "PRIMARY_330": "#e6e6e6",
     "PRIMARY_360": "#b30000",
-    "PRIMARY_400": "#660000",
+    "PRIMARY_400": "#4450d8",
     "PRIMARY_460": "#232428",
     "PRIMARY_500": "#b30000",
     "PRIMARY_530": "#b30000",
     "PRIMARY_600": "#000000",
     "PRIMARY_630": "#232428",
-    "PRIMARY_645": "#b30000",
+    "PRIMARY_645": "#660000",
     "PRIMARY_660": "#232428",
     "PRIMARY_700": "#1a1b1e",
     "PRIMARY_730": "#aaaaaa",
